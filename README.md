@@ -1,1 +1,1 @@
-# This part of programs corresponse to scrapy projects.
+# This part of programs correspond to scrapy projects.
